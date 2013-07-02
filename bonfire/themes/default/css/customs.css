@@ -1,0 +1,457 @@
+.body{-webkit-box-shadow: 0 0 8px #000000;-moz-box-shadow:0 0 8px #000000;box-shadow:  0 0 8px #000000;border: 1px solid #D0D0D0;}
+#header{height:150px;margin-top:0}
+#header_left{width:253px;padding:5px 0 0 0;text-align:center}
+.clsFloatLeft{float:left}
+.clsFloatRight{float:right}
+#header_right{width:500px;text-align:left;font-family:arial}
+.topbar{float:right;width:auto;padding:5px 15px 0 0}
+ul.global-links-r{margin:0 3px 0 0}
+ul.global-links-r li{float:left;padding:3px 10px 0 5px;list-style:none}
+ul.global-links-r li a{font-size:11px;font-weight:bold;color:black;text-decoration:none}
+ul.global-links-r li.down-arrow a{padding:0 11px 0 0}
+ul.global-links-r li.active a,ul.global-links-r li:hover{color:#4798dc}
+.city-block{margin:10px 0 0 0;padding:7px 0 0 0}
+.city-desc-block{float:right}
+div.city-desc-block h2 a{color:#257f82;font-size:25px;line-height:30px;padding:0 21px 0 0}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}
+.clearfix{display:inline-table}
+/*\*/* html .clearfix{height:1%}
+.clearfix{display:block}
+/**/.clear{clear:both}
+#Input_Blk{margin:0 0 10px 0}
+.Input_Bg1{width:181px;padding:5px 10px;display:block;float:left}
+.Input_Bg1 input{background:0;width:181px;color:#858585;display:block}
+.Input_Bg2{width:181px;padding:5px 10px;display:block;float:left}
+.Input_Bg2 select{width:181px;background:0;color:#858585;display:block}
+.topbar{float:right;width:auto}
+#selHead_Butts .HeadSubmit{float:left;display:block}
+#selHead_Butts .HeadSign_in,#selHead_Butts .HeadSign_up{float:right}
+.HeadSign_in,.HeadSign_up{margin:0 0 0 10px}
+.clsLinks_Bg{padding:0 0 0 5px;display:block;color:#000;text-align:center;min-width:71px}
+.clsLinks_Bg span{padding:0 5px 0 0;display:block;text-transform:uppercase}
+.main-navigation{margin-top:5px;margin-bottom:10px;text-align:left}
+.clsHead_left_Titt{float:right;font-family:'HelveticaCondensedBoldRegular';color:#d35b12;font-size:18px;padding:10px 30px}
+#Main_left{padding:0 10px 0 20px;width:700px;}
+h3{text-align:center}
+.All_Offers {margin:0 0 5px 0;clear:both;}
+.clsInfo{background:url(../images/info_bg.png) no-repeat center top;width:348px;height: 45px;padding:10px 0 0 0;text-align:center;}
+.clsOffer_left{width:348px;}
+.clsInfo_Val{position:relative;width:65px;background:url(../images/info_bor.png) no-repeat right center;min-height:37px;display:block;}
+.Info_Cross {
+position:absolute;
+bottom: 1px;
+left: 9px;
+* bottom: 3px;
+}
+.Info_Titt {
+color:#fff;
+font-size:12px;
+padding:0 0 2px 0;
+}
+.Info_CrossVal {
+color:#d8e3fe;
+font-weight:bold;
+font-size:18px;
+}
+.clsInfo_Dis {
+width:60px;
+background:url(../images/info_bor.png) no-repeat right center;
+display:block;
+min-height:37px;
+}
+.Info_Val {
+color:#fff;
+font-size:18px;
+}
+.clsInfo_Sav {
+width:61px;
+background:url(../images/info_bor.png) no-repeat right center;
+display:block;
+min-height:37px;
+}
+.clsInfo_Tim_lft {
+width:161px;
+}
+.clsProduct_Image a {
+display:block;
+}
+.clsPro_Image_Blk {
+border-left:1px solid #d0d0d0;
+border-right:1px solid #d0d0d0;
+position:relative;
+}
+.clsBuy_Price {
+position:absolute;
+background:url(../images/buy_price_bg.png) no-repeat center top;
+width: 83px;
+height:82px;
+padding:20px 10px 0 12px;
+z-index:10px;
+right: 1px;
+top: 40px;
+font-size:18px;
+text-align:center;
+}
+.clsBuy_Price a {
+display:block;
+color:#fff;
+}
+.clsInfo_Cont {
+background:#fff;
+border-left:1px solid #d0d0d0;
+border-right:1px solid #d0d0d0;
+padding:10px 10px 0;
+}
+.clsInfo_Cont .Big {
+font-size:15px;
+font-weight:bold;
+padding:0 0 3px;
+}
+.Samll_orange {
+color:#d35b12;
+font-size:12px;
+padding:5px 0;
+}
+.clsProduct_Image {
+text-align:center;
+}
+.clsSoc_like_Blk {
+background:#f6f6f6 url(../images/like_bttm.png) no-repeat center bottom;
+padding: 8px 10px;
+height: 21px;
+}
+.clsBuy_Price_side {
+position:absolute;
+background:url(../images/price_side_bg.png) no-repeat center top;
+width: 84px;
+height: 66px;
+padding: 18px 0 0;
+z-index:10px;
+right: 3px;
+top: 6px;
+font-size:18px;
+text-align:center;
+}
+.clsBuy_Price_side a {
+color: #FFFFFF;
+font-size:15px;
+font-weight:bold;
+}
+#MainCont_Pro_Des {
+padding:0 10px;
+}
+#Pro_des_left {
+width:670px;
+}
+.clsPro_Avai_Blk {
+background:url(../images/pdround_corner.png) no-repeat center bottom;
+padding:0 0 7px 0;
+}
+.clsInfo_Pro_Exp {
+background:url(../images/info_pd_exp.png) no-repeat center top;
+width:670px;
+height: 45px;
+padding: 10px 0 0;
+text-align: center;
+}
+.clsInfoPE_Name {
+color:#fff;
+float:left;
+padding: 8px 0 0 11px;
+text-align: left;
+width: 527px;
+font-size: 14px;
+}
+.clsExpried {
+position:absolute;
+text-align:center;
+color:#fff;
+background:url(../images/expried_bg.png) no-repeat center top;
+width:669px;
+height:77px;
+line-height:77px;
+bottom: 85px;
+}
+.clsInfoPE_Val {
+position:relative;
+width:64px;
+background:url(../images/info_bor_exp.png) no-repeat right center;
+min-height:37px;
+display:block;
+}
+.InfoPE_Titt {
+color: #FFFFFF;
+font-size: 12px;
+padding: 0 0 2px;
+}
+.InfoPE_CrossVal {
+color: #fe9250;
+font-size: 18px;
+font-weight: bold;
+}
+.InfoPE_Cross {
+bottom: 9px;
+left: 9px;
+position: absolute;
+* bottom: 3px;
+}
+.clsInfoPE_Dis {
+width:60px;
+display:block;
+min-height:37px;
+}
+.InfoPE_Val {
+color: #FFFFFF;
+font-size: 18px;
+}
+
+.clsInfo_Pro_Des {
+background:url(../images/info_pd.png) no-repeat center top;
+width:670px;
+height: 45px;
+padding: 10px 0 0;
+text-align: center;
+}
+.clsInfoPD_Name {
+color:#fff;
+float:left;
+padding: 8px 0 0 11px;
+text-align: left;
+width: 380px;
+font-size: 14px;
+}
+.clsInfoPD_Val {
+position:relative;
+width:64px;
+background:url(../images/info_bor.png) no-repeat right center;
+min-height:37px;
+display:block;
+}
+.InfoPD_Titt {
+color:#fff;
+font-size:12px;
+padding:0 0 2px 0;
+}
+.InfoPD_CrossVal {
+color:#d8e3fe;
+font-weight:bold;
+font-size:18px;
+}
+.clsInfo_Pro_Exp .InfoPD_CrossVal {
+color:#fe9250;
+}
+.InfoPD_Cross {
+position:absolute;
+bottom: 9px;
+left: 9px;
+* bottom: 3px;
+}
+.clsInfoPD_Dis {
+width:60px;
+background:url(../images/info_bor.png) no-repeat right center;
+display:block;
+min-height:37px;
+}
+.InfoPD_Val {
+color:#fff;
+font-size:18px;
+}
+
+.clsInfoPD_Tim_lft {
+width:155px;
+}
+.clsPro_Image_Blk {
+border-left:1px solid #d0d0d0;
+border-right:1px solid #d0d0d0;
+position:relative;
+}
+.clsInfoPD_Cont {
+background:url(../images/pd_info_cont_bg.png) repeat-y center top;
+padding:10px 10px 0;
+width:650px;
+}
+.clsInfoPD_ContLeft {
+width:310px;
+}
+.ProDes_Sup_Blk li {
+background:url(../images/arrow.png) no-repeat 0 5px;
+padding:0 0 0 15px;
+margin:0 0 10px 0;
+}
+.	 .ProDes_Sup_Blk + .ProDes_Sup_Blk {
+margin:20px 0 0;
+}
+.ProDes_Sup_Blk p a {
+color:#4260a3;
+}
+.ProDes_Sup_Blk p a:hover {
+text-decoration:underline;
+}
+.clsInfoPD_Status {
+width:200px;
+text-align:center;
+}
+.clsInfoPD_Status p {
+padding:0 0 10px 0;
+}
+.clsBold {
+font-weight:bold;
+}
+.clsInfoPD_ContRight {
+width:95px;
+}
+.clsInfoPD_ContRight .Off_Mail_Bg {
+margin:0px;
+}
+.clsPE_Buy_Link {
+background:url(../images/buy_exp_link.png) no-repeat center top;
+height:34px;
+line-height:34px;
+width:71px;
+color:#fff;
+display:block;
+text-align:center;
+font-weight:bold;
+font-size:20px;
+}
+.clsPD_Buy_Link {
+background:url(../images/buy_link.png) no-repeat center top;
+height:34px;
+line-height:34px;
+width:71px;
+color:#fff;
+display:block;
+text-align:center;
+font-weight:bold;
+font-size:20px;
+}
+.clsPB_Write_up h2 {
+font-size:17px;
+margin:0 0 15px 0;
+}
+.clsPB_Write_up {
+margin:15px 0 0;
+}
+.clsWrite_left {
+width:180px;
+}
+#Location_Blk {
+margin:0 0 10px 0;
+}
+.clsView_Det_Link a {
+background:url(../images/view_det_map.png) no-repeat center top;
+width:180px;
+height:25px;
+line-height:25px;
+color:#797979;
+display:block;
+text-align:center;
+font-weight:bold;
+font-size:12px;
+}
+.clsView_Det_Link {
+margin:10px 0 0;
+}
+.clsWrite_Add p a {
+color:#7192de;
+font-weight:bold;
+}
+.clsWrite_Add p a:hover {
+text-decoration:underline;
+}
+.clsWrite_Add p {
+padding:0 0 8px 0;
+}
+.clsWrite_Add {
+margin:10px 0 0;
+}
+.selAdd_PD a {
+display:block;
+}
+.clsWirte_Right {
+width:468px;
+}
+.ProDes_Sup_Blk li {
+background:url(../images/arrow.png) no-repeat 0 5px;
+padding:0 0 0 15px;
+margin:0 0 10px 0;
+}
+.clsWirte_Right .ProDes_Sup_Blk + .ProDes_Sup_Blk {
+margin:20px 0 0;
+}
+.ProDes_Sup_Blk p a {
+color:#4260a3;
+}
+.ProDes_Sup_Blk p a:hover {
+text-decoration:underline;
+}
+#Pro_Des_Right {
+width:286px;
+}
+.clsOfferPD_Side {
+background:#fff url(../images/Info_Cont_bg_side.png) no-repeat center bottom;
+padding:0 0 5px 0;
+}
+#Pro_Des_Right .clsOfferPD_Side + .clsOfferPD_Side {
+margin:10px 0 0;
+}
+.clsInfoPD_SideclsInfoPD_Side {
+background:url(../images/info_pd_side.png) no-repeat center top;
+width:286px;
+height: 40px;
+padding-top: 7px;
+text-align:center;
+}
+.clsInfoPD_Side_Val {
+position:relative;
+width:52px;
+background:url(../images/info_bor1.png) no-repeat right center;
+min-height:31px;
+display:block;
+}
+.InfoPD_Side_Titt {
+color:#fff;
+font-size:11px;
+padding:0 0 2px 0;
+}
+.InfoPD_SideCrossVal {
+color:#d8e3fe;
+font-weight:bold;
+font-size:15px;
+}
+.InfoPD_Side_Cross {
+position:absolute;
+bottom: 8px;
+left: 8px;
+* bottom: 3px;
+}
+.clsInfoPD_Side_Dis {
+width:50px;
+background:url(../images/info_bor1.png) no-repeat right center;
+display:block;
+min-height:31px;
+}
+.InfoPD_Side_Val {
+color:#fff;
+font-size: 14px;
+font-weight: bold;
+}
+.clsInfoPD_Side_Sav {
+width:55px;
+background:url(../images/info_bor1.png) no-repeat right center;
+display:block;
+min-height:31px;
+}
+.clsInfoPD_Side_TimLft {
+width:129px;
+}
+.clsProImg_Side_Blk {
+border-left: 1px solid #D0D0D0;
+border-right: 1px solid #D0D0D0;
+position: relative;
+}
+.clsInfo_Cont_Side {
+padding:10px 10px 5px 10px;
+border-left: 1px solid #D0D0D0;
+border-right: 1px solid #D0D0D0;
+}
